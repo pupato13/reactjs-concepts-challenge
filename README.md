@@ -2,7 +2,7 @@
 
 ## :dart: The Challenge
 
-You need to create a frontend app using ReactJS to interact with your backend application created during the [NodeJS Challenge](https://github.com/pupato13/nodejs-concepts-challenge){:target="\_blank"}.
+You need to create a frontend app using ReactJS to interact with your backend application created during the [NodeJS Challenge](https://github.com/pupato13/nodejs-concepts-challenge).
 
 ### Functionalities
 
